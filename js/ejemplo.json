@@ -1,0 +1,16 @@
+[
+    {
+        "Nombres":"Jose Manuel",
+        "Apellidos":"Hernandez Perez",
+        "Grado": "9",
+        "Seccion": "A", 
+        "Genero": "M"
+    }, 
+    {
+        "Nombres":"Maria Guadalupe",
+        "Apellidos":"Gonzales Pereira",
+        "Grado": "5",
+        "Seccion": "B", 
+        "Genero": "F"
+    }
+]
