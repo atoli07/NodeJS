@@ -1,10 +1,11 @@
-const {Router}= require('express');
-const router= Router();
+const {Router} = require('express');
+
+const router= new Router();
 
 router.get('/test', (req, res)=>{
     const data={
-        "nombre":"Alumno1",
-        "apellidos": "Apellido1"
+        "nombre":"Alumno",
+        "apellidos": "Apellido"
     };
     res.json(data);
 });

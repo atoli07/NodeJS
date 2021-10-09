@@ -1,16 +1,18 @@
 [
     {
-        "Nombres":"Jose Manuel",
-        "Apellidos":"Hernandez Perez",
-        "Grado": "9",
-        "Seccion": "A", 
-        "Genero": "M"
+        "id": "1",
+        "nombres": "Jose Manuel",
+        "apellidos": "Hernandez Perez",
+        "grado": "9",
+        "seccion": "A", 
+        "genero": "M"
     }, 
     {
-        "Nombres":"Maria Guadalupe",
-        "Apellidos":"Gonzales Pereira",
-        "Grado": "5",
-        "Seccion": "B", 
-        "Genero": "F"
+        "id": "2",
+        "nombres": "Maria Guadalupe",
+        "apellidos": "Gonzales Pereira",
+        "grado": "5",
+        "seccion": "B", 
+        "genero": "F"
     }
 ]
