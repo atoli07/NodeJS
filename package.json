@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev":"nodemon js/index.js"
+    "dev": "nodemon js/index.js"
   },
   "repository": {
     "type": "git",
@@ -19,7 +19,9 @@
   "homepage": "https://github.com/atoli07/NodeJS#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "morgan": "^1.10.0"
+    "morgan": "^1.10.0",
+    "node-fetch": "^3.0.0",
+    "underscore": "^1.13.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.13"
